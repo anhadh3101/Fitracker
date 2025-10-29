@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.wrangler/
+dist/
+worker-configuration.d.ts
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
